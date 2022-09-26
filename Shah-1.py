@@ -54,8 +54,8 @@ def notice():
 
 	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN WHATSAPP >> +8801876276757")
-	subprocess.check_output(["am", "start", "https://wa.me/+8801876276757"])
+	runtxt("\033[0;92m ADMIN WHATSAPP >> +923176371364")
+	subprocess.check_output(["am", "start", "https://wa.me/+923176371364"])
 
 
         
@@ -94,11 +94,13 @@ class Main:
 		os.system("clear")
 		
 		print ("""\033[0;92m                                              
-              \033[0;91m                               //   ) )  //    / / // | |     //    / / 
-               \033[0;91m                            ((        //___ / / //__| |    //___ / /  
-                \033[0;91m                            \\     / ___   / / ___  |   / ___   /   
-                \033[0;91m                             ) ) //    / / //    | |  //    / /    
-                \033[0;91m                   ((___ / / //    / / //     | | //    / /     
+      
+\033[0;91m           _____ _    _          _    _ 
+\033[0;91m        / ____| |  | |   /\   | |  | |
+\033[0;91m        | (___ | |__| |  /  \  | |__| |
+\033[0;91m          \___ \|  __  | / /\ \ |  __  |
+\033[0;91m          ____) | |  | |/ ____ \| |  | |
+\033[0;91m          |_____/|_|  |_/_/    \_\_|  |_|
 
 
  > \033[0;96mDEVELOPER     : MURTAJIZ
